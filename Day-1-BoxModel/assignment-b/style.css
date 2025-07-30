@@ -12,7 +12,7 @@ body {
 .container {
   border: 1px solid lightgrey;
 
-  width: 400px;
+  width: 350px;
   padding: 10px;
   border-radius: 8px;
 }
@@ -43,6 +43,6 @@ hr {
 
 .see-profiles {
   color: blue;
-  padding: 5px;
+ cursor: pointer;
   width: 100%;
 }
