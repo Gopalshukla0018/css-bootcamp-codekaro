@@ -46,3 +46,7 @@ hr {
  cursor: pointer;
   width: 100%;
 }
+.see-profiles a{
+ text-decoration: none;
+}
+
