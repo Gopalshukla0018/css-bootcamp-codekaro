@@ -8,8 +8,11 @@ I’ve joined this bootcamp to strengthen my CSS fundamentals, and I’ll be upd
 
 ## 📅 Day-wise Progress
 
-- ✅ **Day 1:** HTML + CSS – Box Model (Completed)
-- 🔜 **Day 2: Coming Soon
+-- ✅ **Day 1:** HTML + CSS – Box Model (Completed)
+- ✅ **Day 2:** Position Properties – Relative, Absolute, Fixed, Sticky (Completed)
+- ✅ **Day 3:** Flexbox – Display Flex, Justify Content, Align Items (Completed)
+- 🕓 **Day 4:** Coming Soon
+
 - 
 
 ---
